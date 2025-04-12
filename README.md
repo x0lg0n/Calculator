@@ -66,9 +66,6 @@ Contributions are welcome! If you have suggestions or improvements:
 4. **Push to your forked repository**.
 5. **Submit a pull request** detailing your changes.
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
